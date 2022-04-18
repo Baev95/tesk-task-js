@@ -1,0 +1,18 @@
+{
+  "name": "tesk-task-js",
+  "version": "1.0.0",
+  "description": "completing a test task from ITDelta",
+  "main": "image-cards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baev Yuriy",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "mocha": "^9.2.2"
+  }
+}
